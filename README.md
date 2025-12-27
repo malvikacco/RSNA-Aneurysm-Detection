@@ -1,10 +1,4 @@
-# 8th Place Solution - RSNA Intracranial Aneurysm Detection
-[[Competition]](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection)
-[[Write-Up]](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/writeups/8th-place-solution)
-[[Inference]](https://www.kaggle.com/code/khabel/rsna-dual-gpu-ensemble-2step)
-[[Weights]](https://www.kaggle.com/datasets/khabel/rsna-2025-weights-4xbase)
-
-Training Code for 8th Place Solution - Kaggle Challenge: **RSNA Intracranial Aneurysm Detection**
+ RSNA Aneurysm Detection
 
 ## 📁 Project Structure
 
@@ -19,9 +13,6 @@ repo/
     └─── train_localizers.csv
 
 ```
-
-Download on [Kaggle](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data) the `rsna-intracranial-aneurysm-detection.zip` data and extract `series`, `train.csv` and `train_localizers.csv` to `data`folder.
-
 
 ## 📜 Skripts Order
 
