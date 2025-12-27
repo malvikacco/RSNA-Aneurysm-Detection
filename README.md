@@ -1,4 +1,4 @@
- RSNA Aneurysm Detection
+** RSNA Aneurysm Detection**
 
 ## 📁 Project Structure
 
